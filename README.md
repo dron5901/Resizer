@@ -1,2 +1,0 @@
-# Resizer
-Created with CodeSandbox
